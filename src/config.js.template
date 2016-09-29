@@ -1,0 +1,12 @@
+export default {
+  FACEBOOK_PAGE_TOKEN: 'FACEBOOK_PAGE_TOKEN',
+  FACEBOOK_VERIFY_TOKEN: 'FACEBOOK_VERIFY_TOKEN',
+  BOTKITDB_URL: 'mongodb://username:password@server.com:port/botkit?ssl=true',
+  MONGODB_URL: 'mongodb://username:password@server.com:port/db?ssl=true',
+  AIRPORT_CODE: 'sin',
+  BACKEND_PASSWORD: 'password',
+  URL: 'https://SSL_SERVER_URL',
+  SITA_API_KEY_FLIGHT_DETAILS: 'SITA_API_KEY_FLIGHT_DETAILS'
+  SITA_API_KEY_WEATHER: 'SITA_API_KEY_WEATHER'
+  SITA_API_KEY_WAIT_TIME: 'SITA_API_KEY_WAIT_TIME'
+}
